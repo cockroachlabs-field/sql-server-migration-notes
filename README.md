@@ -1,5 +1,6 @@
 # sql-server-migration-notes
 
+## Data Type Mapping
 | SQL Server Type  | CRDB Type  |
 | :------------ |:---------------|
 | bigint | bigint
